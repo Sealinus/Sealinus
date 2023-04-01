@@ -1,7 +1,33 @@
-# Hi, I'm (Имя)👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1B8300&repeat=false&width=435&lines=Hi+there%2C+I'm+dimus73+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=500&pause=1000&color=1B8300&multiline=true&repeat=false&width=600&height=200&lines=Now+I'm+learnig+html%2C+css%2C+js%2C+python;Curently+I'm+working+on+my+portfolio+site;You+can+reach+me+by+Telegram%3A+%40DmitryPrigozhin;and+email%3A+prigozhin%40mail.com)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,python&tools=git&software=windows,vscode&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Now+I'm+learnig+html%2C+css%2C+js%2C+python;Curently+I'm+working+on+my+portfolio+site;You+can+reach+me+by+%5BTelegram%5D(https%3A%2F%2Ft.me%2FSealinus))](https://git.io/typing-svg)
