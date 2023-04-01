@@ -5,5 +5,5 @@
 - list2
 - list3
 
-- [] listnonchecked
+- [ ] listnonchecked
 - [x] listchecked
