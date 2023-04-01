@@ -24,7 +24,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=C++,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=C++,markdown&&tools=git)](https://github.com/Jurredr/github-widgetbox)
 
 
 
